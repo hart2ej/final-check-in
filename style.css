@@ -1,0 +1,10 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+img {
+    max-width: 100%;
+  height: auto;
+}
+
+.active {
+    color:red
+}
